@@ -105,6 +105,6 @@ Have an app idea? Let's turn it into something people love to use.
 <br />
 <br />
 
-<sub>Banner animated with <a href="https://www.remotion.dev">Remotion</a> · Made with 💙 in Lumajang, Indonesia</sub>
+<sub>Made with 💙 Achmad Hafid Supriyadi, Indonesia</sub>
 
 </div>
